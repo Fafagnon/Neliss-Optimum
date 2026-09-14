@@ -1,0 +1,13 @@
+Images attendues dans ce dossier (mêmes noms de fichiers exacts) :
+
+- hero-neliss.jpg
+  Photo de fond du hero (haut de page). Format paysage, min. 1600x1000px,
+  plutôt sombre ou avec un bon contraste pour que le texte blanc reste lisible.
+
+- apropos-neliss.jpg
+  Photo pour la section "À propos" (équipe ou locaux du cabinet).
+  Format paysage/4:3, min. 1000x750px.
+
+Tant que les fichiers ne sont pas ajoutés, la page utilise une couleur de
+fond de secours (bleu marine) à la place des photos — rien ne casse
+visuellement en attendant.
