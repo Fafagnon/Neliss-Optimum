@@ -400,14 +400,14 @@ p {
   position: relative;
   display: grid;
   grid-template-columns: 1fr;
-  align-items: end;
+  align-items: center;
   gap: 40px;
-  padding-top: 88px;
-  padding-bottom: 0;
+  padding-top: 64px;
+  padding-bottom: 64px;
 }
 
 .hero__content {
-  padding-bottom: 72px;
+  padding-bottom: 0;
   max-width: 30ch;
   opacity: 0;
   transform: translateY(14px);
@@ -479,17 +479,19 @@ p {
     margin-left: auto;
     margin-right: auto;
     gap: 56px;
-    padding-top: 110px;
+    align-items: center;
+    padding-top: 96px;
+    padding-bottom: 96px;
   }
 
   .hero__content {
-    padding-bottom: 110px;
+    padding-bottom: 0;
     max-width: 36ch;
   }
 
   .hero__figure {
     justify-self: center;
-    max-width: 420px;
+    max-width: 400px;
   }
 }
 
